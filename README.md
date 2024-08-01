@@ -6,6 +6,8 @@ This project focuses on predicting customer churn in a telecom company using ens
 
 The project aims to develop a robust churn prediction model by leveraging the power of ensemble methods and gain deeper insights into customer behavior through clustering.
 
+Source dataset: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+
 ## Methodology
 
 1. **Data Preprocessing:**
@@ -32,8 +34,7 @@ The project aims to develop a robust churn prediction model by leveraging the po
 
 ## Files and Directories
 
-- `notebook.ipynb`: Jupyter notebook containing the complete code and analysis.
-- `data/`: Directory to store the dataset (not included in the repository).
+- `telco.ipynb`: Colab notebook containing the complete code and analysis.
 - `README.md`: This file.
 
 ## Libraries Used
@@ -52,11 +53,3 @@ The project aims to develop a robust churn prediction model by leveraging the po
 - Explore other ensemble methods like boosting algorithms.
 - Develop strategies for targeted interventions based on cluster insights.
 - Deploy the model for real-time churn prediction.
-
-## Contributing
-
-Contributions are welcome! Feel free to open issues or submit pull requests.
-
-## License
-
-This project is licensed under the MIT License.

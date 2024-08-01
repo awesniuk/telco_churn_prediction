@@ -1,10 +1,8 @@
 # Customer Churn Prediction with Ensemble Methods and Clustering
 
-This project focuses on predicting customer churn in a telecom company using ensemble learning techniques and customer segmentation through clustering.
-
 ## Project Overview
 
-The project aims to develop a robust churn prediction model by leveraging the power of ensemble methods and gain deeper insights into customer behavior through clustering.
+This project focuses on predicting customer churn in a telecom company using ensemble learning techniques and customer segmentation through clustering.
 
 Source dataset: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
